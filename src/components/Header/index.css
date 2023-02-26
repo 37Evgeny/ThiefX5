@@ -1,0 +1,14 @@
+.appBar{
+     background-color:grey;
+   
+}
+.logo{
+    height: 150px;
+   
+}
+.titleAppBar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
